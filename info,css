@@ -14,7 +14,7 @@
 
 body{
     min-height: 100vh;
-    background-image: url(imgs/dbg2.png);
+    background-image: url(img/dbg2.png);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -172,7 +172,7 @@ ul,li,p{
 @media only screen and (max-width: 600px) {
     body {
       font-size: 0.8em;
-      background-image: url(imgs/dbg.jpg); 
+      background-image: url(img/dbg2.png); 
       background-repeat: no-repeat;
       background-size: 100%;
       -webkit-background-size: 100%;
